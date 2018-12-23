@@ -6,6 +6,6 @@
 - [AngularDart](https://webdev.dartlang.org/)
 - [Server](https://www.dartlang.org/dart-vm)
 - [Flutter](https://flutter.io/)
-- [Awesome Dart](https://github.com/yissachar/awesome-dart/blob/master/README.md)
+- [Awesome Dart](https://github.com/yissachar/awesome-dart)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter)
 ---
