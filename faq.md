@@ -9,3 +9,6 @@
 - [Awesome Dart](https://github.com/yissachar/awesome-dart)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter)
 ---
+#### Как разрабатывать под iOS без Mac?
+https://medium.com/flutter-community/developing-and-debugging-flutter-apps-for-ios-without-a-mac-8d362a8ec667
+---
