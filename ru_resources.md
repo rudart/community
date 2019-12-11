@@ -14,6 +14,7 @@
 [**#Dartup 2016**](https://www.youtube.com/watch?v=nspk3plNh_4&list=PLxcvsYzLfaTCxIHiah3vUdiRNrp4AjGdu)  
 [**#Dartup 2017**](https://www.youtube.com/watch?v=kH1_Foi-znk&list=PLxcvsYzLfaTDQM6PoN-foQ5q0SM9vG9Yt)  
 [**#Dartup 2017**](https://www.youtube.com/watch?v=iuB8m2H9GTI&list=PLxcvsYzLfaTAwLy1UO2Y6b_AMg-0uDSjX)  
+[**Сергей Титенко: лекции в Киевском Политехническом Институте (обновляется)**](https://www.youtube.com/playlist?list=PLB3Q3FfzbFkQ3QyUUE-vJHjT-tHrsgryi)  
 
 ## Audio
 [**SDCast** *"Подкаст о Dart, Евгений Кот, Игорь Демьянов"*](https://sdcast.ksdaemon.ru/2017/10/sdcast-64)
