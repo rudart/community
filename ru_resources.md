@@ -24,3 +24,6 @@
 [**Два года с Dart: о том, как мы пишем на языке, который ежегодно «хоронят» (часть 2)**](https://habrahabr.ru/company/wrike/blog/330900/)  
 [**Dart Developer Summit 2016: главные новости из мира Dart**](https://habrahabr.ru/company/wrike/blog/315768/)  
 [**Анонс Dart 2.0: Оптимизированный для клиентской разработки**](https://habr.com/company/wrike/blog/349790/) 
+
+## Channels
+[**Телеграмм канал с полезными ссылками**](https://t.me/flutter_resources)  
