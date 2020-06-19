@@ -1,6 +1,7 @@
 
 # Русскоязычные материалы по Dart/Flutter/etc
 ## Video  
+[**comerc** *"Осваиваю Flutter в режиме live-code"*](https://www.youtube.com/watch?v=kN2QLCtC098&list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)  
 [**Евгений Кот** *"Проблемы JavaScript в большом проекте"*](https://www.youtube.com/watch?v=WcuQAViPGOw)  
 [**Дмитрий Васильев** *"Чем Dart может быть полезен JS-разработчикам"*](https://www.youtube.com/watch?v=_Gio5PmTI9E)  
 [**Даниил Гительсон** *"Model Driven Architecture во фронтенд-разработке"*](https://www.youtube.com/watch?v=CuiwJ41jKZ)  
