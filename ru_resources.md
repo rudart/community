@@ -25,6 +25,7 @@
 [**Два года с Dart: о том, как мы пишем на языке, который ежегодно «хоронят» (часть 2)**](https://habrahabr.ru/company/wrike/blog/330900/)  
 [**Dart Developer Summit 2016: главные новости из мира Dart**](https://habrahabr.ru/company/wrike/blog/315768/)  
 [**Анонс Dart 2.0: Оптимизированный для клиентской разработки**](https://habr.com/company/wrike/blog/349790/) 
+["Dart в действии" Крис Беккет Manning(2013)](https://dmkpress.com/catalog/computer/web/978-5-97060-221-8/) | [обновлённые исходные коды к книге](https://github.com/rustkas/dart_in_action_my_R-D)
 
 ## Channels
 [**Телеграмм канал с полезными ссылками**](https://t.me/flutter_resources)  
