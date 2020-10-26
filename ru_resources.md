@@ -1,6 +1,7 @@
 
 # Русскоязычные материалы по Dart/Flutter/etc
 ## Video  
+[**Pro Flutter** *"Уроки Flutter на русском для начинающих"*](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4)  
 [**comerc** *"Осваиваю Flutter в режиме live-code"*](https://www.youtube.com/watch?v=kN2QLCtC098&list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)  
 [**Евгений Кот** *"Проблемы JavaScript в большом проекте"*](https://www.youtube.com/watch?v=WcuQAViPGOw)  
 [**Дмитрий Васильев** *"Чем Dart может быть полезен JS-разработчикам"*](https://www.youtube.com/watch?v=_Gio5PmTI9E)  
